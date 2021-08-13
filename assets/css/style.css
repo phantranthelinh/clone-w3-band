@@ -165,7 +165,7 @@ html{
 
 #slider{
   margin-top: 46px;
-  background: url('/assets/img/slider/slider1.jpg') top center/cover no-repeat;
+  background: url('../img/slider/slider1.jpg') top center/cover no-repeat;
   padding-top: 50%;
   z-index: 1;
   position: relative;
